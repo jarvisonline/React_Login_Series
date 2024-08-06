@@ -1,3 +1,4 @@
+<<<<<<< HEAD:react_jwt_auth _persistent/README.md
 # "React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
@@ -15,3 +16,6 @@ I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.
 ### Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+=======
+
+>>>>>>> c0665b29576d5c9f99f09b1f8b9ab468fbdc5b3f:react_jwt acess/README.md
